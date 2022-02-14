@@ -1,5 +1,5 @@
-# awesome-AI-for-Climate-at-MIT [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-**Awesome-AI-for-Climate-at-MIT** is a curated list of professors and other researchers at MIT who are tackling climate change with machine learning (CCML)
+# awesome-MIT-AI-for-Climate-Change [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+**Awesome-MIT-AI-for-Climate-Change** is a curated list of professors and other researchers at MIT who are tackling climate change with machine learning (CCML)
 
 Finding professors in machine learning and climate change is difficult, because they are spread across various departments and research a wide breadth of optics. Whether you're applying for graduate school, look for collaborators, or inspiring projects - this list is intended to get you started by finding the right people.
 
@@ -37,6 +37,9 @@ Scientific machine learning, physics-informed neural networks, climate modeling,
 Distributed or collaborative robotics, soft robotics, mobile computing, pruned neural networks, robustness, climate change. 
 
 ## Civil and Environmental Engineering (CEE)
+- [**César Terrer**](https://cee.mit.edu/people_individual/cesar-terrer/)
+Earth system science, forests, plant-soil interactions, field and satellite observations, remote sensing, land surface modeling. 
+
 - [**Saurabh Amin**](https://cee.mit.edu/people_individual/saurabh-amin/) \
 Control of infrastructure systems, game theory, optimization in networks, sustainability, natural resource supply chains.
 
