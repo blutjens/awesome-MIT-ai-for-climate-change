@@ -1,3 +1,12 @@
+# awesome-AI-for-Climate-at-MIT [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+**Awesome-AI-for-Climate-at-MIT** is a curated list of professors and other researchers at MIT who are tackling climate change with machine learning. 
+
+Finding professors in machine learning and climate change is difficult, because they are spread across various departments and research a wide breadth of optics. Whether you're applying for graduate school, look for collaborators, or inspiring projects - this list is intended to get you started by finding the right people.
+
+This is a safe, open, and inclusive community; please add your favorite professors through commenting in an issue or creating a pull request.
+
+<img src="figures/mit-earth-logo.png" alt="MIT logo with an Earth in brackets" width="50%">
+MIT Campaign for a Better World logo from [MIT Better World](https://betterworld.mit.edu/)
 
 ## Department 
 - [**Aeronautics and Astronautics**](#aeronautics-and-astronautics)
