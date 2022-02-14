@@ -14,14 +14,16 @@ MIT Campaign for a Better World logo from [MIT Better World](https://betterworld
 - [**Civil and Environmental Engineering (CEE)**](#civil-and-environmental-engineering-cee)
 - [**Computer Science and Artificial Intelligence Laboratory (CSAIL)**](#computer-science-and-artificial-intelligence-laboratory-csail)
 - [**Earth and planetary sciences (EAPS)**](#earth-and-planetary-sciences-eaps)
+- [**MIT Media Lab**](#mit-media-lab)
+- [**MIT Sloan School of Management**](#mit-sloan-school-of-management)
 - [**Woods Hole Oceanographic Institution (WHOI)**](#woods-hole-oceanographic-institution-whoi)
 
 ## Aeronautics and Astronautics 
 - [**Dava Newman**](https://davanewman.com/) \
-Fast climate models, physics-informed neural networks, climate visualizations, virtual reality. CCML students include Björn Lütjens, Hannah Munguia-Flores. 
+Fast climate models, physics-informed neural networks, climate visualizations, virtual reality. Students in CCML include Björn Lütjens, Hannah Munguia-Flores. 
 
 - [**Steven Barret**](http://barrett.mit.edu/) \
-Zero-emission aviation, contrails. CCML students include Vincent Meijer. 
+Zero-emission aviation, contrails. Students in CCML include Vincent Meijer. 
 
 ## Architecture
 - [**John E. Fernandez**](https://environmentalsolutions.mit.edu/people/prof-john-e-fernandez/) \
@@ -29,53 +31,59 @@ Deforestation, Environmental Justice.
 
 ## Computer Science and Artificial Intelligence Laboratory (CSAIL)
 - [**Chris Rackauckas**](https://chrisrackauckas.com/) \
-Scientific machine learning, physics-informed neural networks, climate modeling, differential equations
+Scientific machine learning, physics-informed neural networks, climate modeling, differential equations.
 
 - [**Daniela Rus**](https://www.youtube.com/watch?v=A7_DIsxWqGI) \
 Distributed or collaborative robotics, soft robotics, mobile computing, pruned neural networks, robustness, climate change. 
 
-
 ## Civil and Environmental Engineering (CEE)
 - [**Saurabh Amin**](https://cee.mit.edu/people_individual/saurabh-amin/) \
-Control of infrastructure systems, game theory, optimization in networks, sustainability, natural resource supply chains
+Control of infrastructure systems, game theory, optimization in networks, sustainability, natural resource supply chains.
 
 ## Earth and Planetary Sciences (EAPS)
 - [**Brent Minchew**](https://glaciers.mit.edu/) \
 Cryosphere, glaciers, remote sensing, inSAR, mechanics of flowing ice. 
 
 - [**Chris Hill**](https://mitibmwatsonailab.mit.edu/people/chris-hill/) \
-Ocean modeling, climate modeling, green high-performance computing, physics-informed neural networks, multi-scale modeling of fluids. Links: [1](https://doi.org/10.1029/2020GL091363)
+Ocean modeling, climate modeling, green high-performance computing, physics-informed neural networks, multi-scale modeling of fluids. Links in CCML include [1](https://doi.org/10.1029/2020GL091363)
 
 - [**Noelle Selin**](https://eapsweb.mit.edu/people/selin) \
 Air pollution, atmospheric chemistry, aerosols.
 
 - [**Paul O'Gorman**](https://pog.mit.edu/) \
-Atmospheric dynamics, precipitation, physics-informed neural networks. CCML students include Janni Yuval and relevant links include [3Q](https://news.mit.edu/2019/mit-3q-paul-o-gorman-machine-learning-for-climate-modeling-0213).
+Atmospheric dynamics, precipitation, physics-informed neural networks. Students and links in CCML include Janni Yuval, [3Q](https://news.mit.edu/2019/mit-3q-paul-o-gorman-machine-learning-for-climate-modeling-0213).
 
 - [**Raffaele Ferrari**](http://ferrari.mit.edu/) \
-Ocean modeling, Ocean dynamics, Atmospheric dynamics. Links: [1](http://ferrari.mit.edu/research/ocean-modelling/)
+Ocean modeling, Ocean dynamics, Atmospheric dynamics. Links in CCML include [1](http://ferrari.mit.edu/research/ocean-modelling/)
 
 - [**Sai Ravela**](https://eapsweb.mit.edu/people/ravela) \
-Data-driven dynamical systems, computational sustainability, optimization, climate risk. Links: [1](https://doi.org/10.1109/TKDE.2018.2861006)
+Data-driven dynamical systems, computational sustainability, optimization, climate risk. Links in CCML include [1](https://doi.org/10.1109/TKDE.2018.2861006)
 
 - [**Stephanie Dutkiewicz**](https://eapsweb.mit.edu/people/stephdut) \
-Ocean sciences, marine ecosystems, phytoplankton, biogeochemistry, biogeography, unsupervised learning. Relevant links include [1](https://doi.org/10.1126/sciadv.aay4740)
+Ocean sciences, marine ecosystems, phytoplankton, biogeochemistry, biogeography, unsupervised learning. Links in CCML include [1](https://doi.org/10.1126/sciadv.aay4740)
 
 - [**Taylor Perron**](https://taylorperron.org/) \
 Geomorphology, remote sensing, forests, influence of climate on landscapes, river networks. 
 
 ## MIT Media Lab
-- [**Alex 'Sandy' Pentland**](https://www.media.mit.edu/people/sandy/overview/) \
-Climate misinformation, UN SDGs. CCML students in 
-
 - [**Danielle Wood**](https://www.media.mit.edu/people/drwood/overview/) \
-Environmental justice, ecosystem monitoring, space policy, remote sensing. CCML students include Neil Gaikwad.
+Environmental justice, ecosystem monitoring, space policy, remote sensing. Students in CCML include Neil Gaikwad.
 
 - [**Dava Newman**](https://davanewman.com/) \
 See [Aeronautics and Astronautics](#aeronautics-and-astronautics)
 
 - [**Joseph A. Paradiso**](https://resenv.media.mit.edu/) \
-Sustainable and smart agriculture, internet of things, food systems, sensor networks. CCML students include Caroline Jaffe.
+Sustainable and smart agriculture, internet of things, food systems, sensor networks. Students in CCML include Caroline Jaffe.
+
+## MIT Sloan School of Management
+- [**David Rand**](https://mitsloan.mit.edu/faculty/directory/david-g-rand) \
+Cognitive science, behavioral economics, social psychology, climate misinformation. Students in CCML include Zivvy Epstein.
+
+- [**Jason Jay**](https://mitsloan.mit.edu/faculty/directory/jason-jay) \
+Leadership, strategy, sustainable business, combining social and business goals. 
+
+- [**John Sterman**](https://jsterman.scripts.mit.edu/) \
+System dynamics, climate policy, systems analysis, simulating complex systems. Links in CCML include [en-roads](https://en-roads.climateinteractive.org/scenario.html?v=22.1.1)
 
 ## Woods Hole Oceanographic Institution (WHOI)
 - [**Yogesh Girdar**](https://www.whoi.edu/profile/ygirdhar/) \
