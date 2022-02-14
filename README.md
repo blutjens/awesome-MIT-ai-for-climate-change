@@ -5,7 +5,7 @@ Finding professors in machine learning and climate change is difficult, because 
 
 This is a safe, open, and inclusive community; please add your favorite professors through commenting in an issue or creating a pull request.
 
-<img src="figures/mit-earth-logo.png" alt="MIT logo with an Earth in brackets" width="50%">
+<img src="mit-earth-logo.png" alt="MIT logo with an Earth in brackets" width="50%">
 MIT Campaign for a Better World logo from [MIT Better World](https://betterworld.mit.edu/)
 
 ## Department 
