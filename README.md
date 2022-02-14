@@ -37,7 +37,7 @@ Scientific machine learning, physics-informed neural networks, climate modeling,
 Distributed or collaborative robotics, soft robotics, mobile computing, pruned neural networks, robustness, climate change. 
 
 ## Civil and Environmental Engineering (CEE)
-- [**César Terrer**](https://cee.mit.edu/people_individual/cesar-terrer/)
+- [**César Terrer**](https://cee.mit.edu/people_individual/cesar-terrer/) \
 Earth system science, forests, plant-soil interactions, field and satellite observations, remote sensing, land surface modeling. 
 
 - [**Saurabh Amin**](https://cee.mit.edu/people_individual/saurabh-amin/) \
