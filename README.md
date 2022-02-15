@@ -6,6 +6,7 @@ Finding professors in machine learning and climate change is difficult, because 
 This is a safe, open, and inclusive community; please add your favorite professors through commenting in an issue or creating a pull request.
 
 <img src="mit-earth-logo.png" alt="MIT logo with an Earth in brackets" width="20%">
+
 MIT Campaign for a Better World logo from [MIT Better World](https://betterworld.mit.edu/)
 
 ## Department 
@@ -39,6 +40,9 @@ Distributed or collaborative robotics, soft robotics, mobile computing, pruned n
 ## Civil and Environmental Engineering (CEE)
 - [**César Terrer**](https://cee.mit.edu/people_individual/cesar-terrer/) \
 Earth system science, forests, plant-soil interactions, field and satellite observations, remote sensing, land surface modeling. 
+
+- [**Colette Heald**](https://eapsweb.mit.edu/people/heald) \
+Air quality, climate, environmental health, atmospheric composition and chemistry, modeling. Students and links in CCML include Sidhant Pai and [1](https://doi.org/10.1029/2018GL081049).
 
 - [**Saurabh Amin**](https://cee.mit.edu/people_individual/saurabh-amin/) \
 Control of infrastructure systems, game theory, optimization in networks, sustainability, natural resource supply chains.
@@ -93,4 +97,4 @@ System dynamics, climate policy, systems analysis, simulating complex systems, o
 Deep sea exploration, robots, communication-starved environments, unsupervised learning. CCML students include Stewart Jamieson, Jess Todd.
 
 ## Contributions
-This list has only been possible to assemble through the extensive input by Zivvy Epstein, Helena Caswell, Salva Rühling, Will Atkinson, and more. 
+This list has only been possible to assemble through the extensive input by Zivvy Epstein, Helena Caswell, Salva Rühling, Will Atkinson, Sidhant Pai, and more. 
