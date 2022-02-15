@@ -86,8 +86,11 @@ Cognitive science, behavioral economics, social psychology, climate misinformati
 Leadership, strategy, sustainable business, combining social and business goals. 
 
 - [**John Sterman**](https://jsterman.scripts.mit.edu/) \
-System dynamics, climate policy, systems analysis, simulating complex systems. Links in CCML include [en-roads](https://en-roads.climateinteractive.org/scenario.html?v=22.1.1)
+System dynamics, climate policy, systems analysis, simulating complex systems, only tangentially machine learning. Links in CCML include [en-roads](https://en-roads.climateinteractive.org/scenario.html?v=22.1.1)
 
 ## Woods Hole Oceanographic Institution (WHOI)
 - [**Yogesh Girdar**](https://www.whoi.edu/profile/ygirdhar/) \
 Deep sea exploration, robots, communication-starved environments, unsupervised learning. CCML students include Stewart Jamieson, Jess Todd.
+
+## Contributions
+This list has only been possible to assemble through the extensive input by Zivvy Epstein, Helena Caswell, Salva Rühling, Will Atkinson, and more. 
