@@ -96,5 +96,9 @@ System dynamics, climate policy, systems analysis, simulating complex systems, o
 - [**Yogesh Girdar**](https://www.whoi.edu/profile/ygirdhar/) \
 Deep sea exploration, robots, communication-starved environments, unsupervised learning. CCML students include Stewart Jamieson, Jess Todd.
 
+## Awesome-awesome
+- [**MIT Climate Grand Challenge Finalists**](https://news.mit.edu/2022/climate-grand-challenges-finalists-0214) \
+A list of professors interested in climate change. 
+
 ## Contributions
 This list has only been possible to assemble through the extensive input by Zivvy Epstein, Helena Caswell, Salva Rühling, Will Atkinson, Sidhant Pai, and more. 
