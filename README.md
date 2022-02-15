@@ -15,6 +15,7 @@ MIT Campaign for a Better World logo from [MIT Better World](https://betterworld
 - [**Civil and Environmental Engineering (CEE)**](#civil-and-environmental-engineering-cee)
 - [**Computer Science and Artificial Intelligence Laboratory (CSAIL)**](#computer-science-and-artificial-intelligence-laboratory-csail)
 - [**Earth and planetary sciences (EAPS)**](#earth-and-planetary-sciences-eaps)
+- [**Materials Sciences and Engineering**](#materials-sciences-and-engineering)
 - [**MIT Media Lab**](#mit-media-lab)
 - [**MIT Sloan School of Management**](#mit-sloan-school-of-management)
 - [**Woods Hole Oceanographic Institution (WHOI)**](#woods-hole-oceanographic-institution-whoi)
@@ -25,6 +26,9 @@ Fast climate models, physics-informed neural networks, climate visualizations, v
 
 - [**Steven Barret**](http://barrett.mit.edu/) \
 Zero-emission aviation, contrails. Students in CCML include Vincent Meijer. 
+
+- [**Youssef Marzouk**](https://uqgroup.mit.edu/) \
+Uncertainty quantification, Bayesian modeling and computation, data assimilation, machine learning in complex physical systems, environmental applications. Students in CCML include Maximilian Ramgraber, Aimee Maurais. 
 
 ## Architecture
 - [**John E. Fernandez**](https://environmentalsolutions.mit.edu/people/prof-john-e-fernandez/) \
@@ -44,10 +48,16 @@ Earth system science, forests, plant-soil interactions, field and satellite obse
 - [**Colette Heald**](https://eapsweb.mit.edu/people/heald) \
 Air quality, climate, environmental health, atmospheric composition and chemistry, modeling. Students and links in CCML include Sidhant Pai and [1](https://doi.org/10.1029/2018GL081049).
 
+- [**Michael Howland**](https://cee.mit.edu/people_individual/michael-f-howland/) \
+Wind farm modeling, fluid mechanics, weather and climate modeling, uncertainty quantification, optimization and control, physics-informed machine learning, renewable energies. Links in CCML include [1](https://doi.org/10.3390/en12142716).
+
 - [**Saurabh Amin**](https://cee.mit.edu/people_individual/saurabh-amin/) \
 Control of infrastructure systems, game theory, optimization in networks, sustainability, natural resource supply chains.
 
 ## Earth and Planetary Sciences (EAPS)
+- [**Andre Souza**](https://eapsweb.mit.edu/people/sandre) \
+machine learning methods for discovering dynamics, optimal control, rare events in dynamical systems, Ocean modeling. Links in CCML include [1](https://doi.org/10.1029/2020MS002108).
+
 - [**Brent Minchew**](https://glaciers.mit.edu/) \
 Cryosphere, glaciers, remote sensing, inSAR, mechanics of flowing ice. 
 
@@ -72,6 +82,10 @@ Ocean sciences, marine ecosystems, phytoplankton, biogeochemistry, biogeography,
 - [**Taylor Perron**](https://taylorperron.org/) \
 Geomorphology, remote sensing, forests, influence of climate on landscapes, river networks. 
 
+## Materials Sciences and Engineering
+- [**Elsa Olivetti**](https://dmse.mit.edu/people/elsa-a-olivetti) \
+Environmental and economic sustainability of materials, recycled and renewable materials, recycling-friendly material design, intelligent waste disposition, dematerialization and waste mining. Links in CCML include [1](https://news.mit.edu/2019/materials-day-talks-examine-promises-challenges-ai-machine-learning-1105)
+
 ## MIT Media Lab
 - [**Danielle Wood**](https://www.media.mit.edu/people/drwood/overview/) \
 Environmental justice, ecosystem monitoring, space policy, remote sensing. Students in CCML include Neil Gaikwad.
@@ -79,10 +93,16 @@ Environmental justice, ecosystem monitoring, space policy, remote sensing. Stude
 - [**Dava Newman**](https://davanewman.com/) \
 See [Aeronautics and Astronautics](#aeronautics-and-astronautics)
 
+- [**Fadel Adib**](http://www.mit.edu/~fadel/) \
+Ocean internet of things, distributed sensors, reinforcement learning. 
+
 - [**Joseph A. Paradiso**](https://resenv.media.mit.edu/) \
 Sustainable and smart agriculture, internet of things, food systems, sensor networks. Students in CCML include Caroline Jaffe.
 
 ## MIT Sloan School of Management
+- [**Christopher R. Knittel**](http://knittel.world/) \
+Energy and environmental policy, energy efficiency investments, environmental economics, machine learning. Links in CCML include [1](https://doi.org/10.1086/710606).
+
 - [**David Rand**](https://mitsloan.mit.edu/faculty/directory/david-g-rand) \
 Cognitive science, behavioral economics, social psychology, climate misinformation. Students in CCML include Zivvy Epstein.
 
