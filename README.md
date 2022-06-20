@@ -3,7 +3,7 @@
 
 Finding professors in machine learning and climate change is difficult, because they are spread across various departments and research a wide breadth of optics. Whether you're applying for graduate school, look for collaborators, or inspiring projects - this list is intended to get you started by finding the right people.
 
-This is a safe, open, and inclusive community; please add your favorite professors through commenting in an issue or creating a pull request.
+This is a safe, open, and inclusive community. The list is most surely incomplete, so please add your favorite professors through commenting in an issue or creating a pull request.
 
 <img src="mit-earth-logo.png" alt="MIT logo with an Earth in brackets" width="20%">
 
