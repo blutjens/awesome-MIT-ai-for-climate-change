@@ -16,6 +16,7 @@ MIT Campaign for a Better World logo from [MIT Better World](https://betterworld
 - [**Computer Science and Artificial Intelligence Laboratory (CSAIL)**](#computer-science-and-artificial-intelligence-laboratory-csail)
 - [**Earth and planetary sciences (EAPS)**](#earth-and-planetary-sciences-eaps)
 - [**Materials Sciences and Engineering**](#materials-sciences-and-engineering)
+- [**Mechanical Engineering**](#mechanical-engineering)
 - [**MIT Media Lab**](#mit-media-lab)
 - [**MIT Sloan School of Management**](#mit-sloan-school-of-management)
 - [**Woods Hole Oceanographic Institution (WHOI)**](#woods-hole-oceanographic-institution-whoi)
@@ -85,6 +86,10 @@ Geomorphology, remote sensing, forests, influence of climate on landscapes, rive
 ## Materials Sciences and Engineering
 - [**Elsa Olivetti**](https://dmse.mit.edu/people/elsa-a-olivetti) \
 Environmental and economic sustainability of materials, recycled and renewable materials, recycling-friendly material design, intelligent waste disposition, dematerialization and waste mining. Links in CCML include [1](https://news.mit.edu/2019/materials-day-talks-examine-promises-challenges-ai-machine-learning-1105)
+
+## Mechanical Engineering
+- [**Pierre Lermusiaux**](http://web.mit.edu/pierrel/www/) \
+Ocean modeling and data assimilation to quantify regional ocean dynamics on multiple scales. Multiscale modeling, uncertainty quantification, data assimilation.
 
 ## MIT Media Lab
 - [**Danielle Wood**](https://www.media.mit.edu/people/drwood/overview/) \
