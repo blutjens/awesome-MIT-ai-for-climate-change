@@ -42,6 +42,9 @@ Scientific machine learning, physics-informed neural networks, climate modeling,
 - [**Daniela Rus**](https://www.youtube.com/watch?v=A7_DIsxWqGI) \
 Distributed or collaborative robotics, soft robotics, mobile computing, pruned neural networks, robustness, climate change. 
 
+- [**Priya Donti**](https://priyadonti.com/) \
+Forecasting, optimization, and control in high-renewable power grids, hard constraints in deep learning, co-founder ClimateChangeAI 
+
 ## Civil and Environmental Engineering (CEE)
 - [**César Terrer**](https://cee.mit.edu/people_individual/cesar-terrer/) \
 Earth system science, forests, plant-soil interactions, field and satellite observations, remote sensing, land surface modeling. 
