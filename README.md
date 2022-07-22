@@ -15,6 +15,7 @@ MIT Campaign for a Better World logo from [MIT Better World](https://betterworld
 - [**Civil and Environmental Engineering (CEE)**](#civil-and-environmental-engineering-cee)
 - [**Computer Science and Artificial Intelligence Laboratory (CSAIL)**](#computer-science-and-artificial-intelligence-laboratory-csail)
 - [**Earth and planetary sciences (EAPS)**](#earth-and-planetary-sciences-eaps)
+- [**Electrical Engineering and Computer Science (EECS)**](#electrical-engineering-and-computer-science-eecs)
 - [**Materials Sciences and Engineering**](#materials-sciences-and-engineering)
 - [**Mechanical Engineering**](#mechanical-engineering)
 - [**MIT Media Lab**](#mit-media-lab)
@@ -42,8 +43,8 @@ Scientific machine learning, physics-informed neural networks, climate modeling,
 - [**Daniela Rus**](https://www.youtube.com/watch?v=A7_DIsxWqGI) \
 Distributed or collaborative robotics, soft robotics, mobile computing, pruned neural networks, robustness, climate change. 
 
-- [**Priya Donti**](https://priyadonti.com/) \
-Forecasting, optimization, and control in high-renewable power grids, hard constraints in deep learning, co-founder ClimateChangeAI 
+- [**Sara Beery**](https://beerys.github.io/) \
+Computer Vision for Ecology, wildlife camera footage, forest detection, fine-grained visual classification. 
 
 ## Civil and Environmental Engineering (CEE)
 - [**César Terrer**](https://cee.mit.edu/people_individual/cesar-terrer/) \
@@ -85,6 +86,10 @@ Ocean sciences, marine ecosystems, phytoplankton, biogeochemistry, biogeography,
 
 - [**Taylor Perron**](https://taylorperron.org/) \
 Geomorphology, remote sensing, forests, influence of climate on landscapes, river networks. 
+
+## Electrical Engineering and Computer Science (EECS)
+- [**Priya Donti**](https://priyadonti.com/) \
+Forecasting, optimization, and control in high-renewable power grids, hard constraints in deep learning, co-founder ClimateChangeAI 
 
 ## Materials Sciences and Engineering
 - [**Elsa Olivetti**](https://dmse.mit.edu/people/elsa-a-olivetti) \
