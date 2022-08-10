@@ -110,7 +110,7 @@ See [Aeronautics and Astronautics](#aeronautics-and-astronautics)
 Ocean internet of things, distributed sensors, reinforcement learning. 
 
 - [**Joseph A. Paradiso**](https://resenv.media.mit.edu/) \
-Sustainable and smart agriculture, internet of things, food systems, sensor networks. Students in CCML include Caroline Jaffe and Neil Gaikwad.
+Sustainable and smart agriculture, internet of things, food systems, sensor networks. Students in CCML include Caroline Jaffe and [Neil Gaikwad](https://web.media.mit.edu/~gaikwad/).
 
 ## MIT Sloan School of Management
 - [**Christopher R. Knittel**](http://knittel.world/) \
