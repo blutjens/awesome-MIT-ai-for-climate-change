@@ -101,7 +101,7 @@ Ocean modeling and data assimilation to quantify regional ocean dynamics on mult
 
 ## MIT Media Lab
 - [**Danielle Wood**](https://www.media.mit.edu/people/drwood/overview/) \
-Environmental justice, ecosystem monitoring, space policy, remote sensing. Students in CCML include Neil Gaikwad.
+Environmental justice, ecosystem monitoring, space policy, remote sensing.
 
 - [**Dava Newman**](https://davanewman.com/) \
 See [Aeronautics and Astronautics](#aeronautics-and-astronautics)
@@ -110,7 +110,7 @@ See [Aeronautics and Astronautics](#aeronautics-and-astronautics)
 Ocean internet of things, distributed sensors, reinforcement learning. 
 
 - [**Joseph A. Paradiso**](https://resenv.media.mit.edu/) \
-Sustainable and smart agriculture, internet of things, food systems, sensor networks. Students in CCML include Caroline Jaffe.
+Sustainable and smart agriculture, internet of things, food systems, sensor networks. Students in CCML include Caroline Jaffe and Neil Gaikwad.
 
 ## MIT Sloan School of Management
 - [**Christopher R. Knittel**](http://knittel.world/) \
