@@ -99,6 +99,9 @@ Environmental and economic sustainability of materials, recycled and renewable m
 - [**Pierre Lermusiaux**](http://web.mit.edu/pierrel/www/) \
 Ocean modeling and data assimilation to quantify regional ocean dynamics on multiple scales. Multiscale modeling, uncertainty quantification, data assimilation.
 
+- [**Sherrie Wang**](https://sherriewang.github.io/) \
+Remote sensing and machine learning for climate science and agriculture. Links in CCML include [1](https://doi.org/10.1016/j.rse.2018.12.026)
+
 ## MIT Media Lab
 - [**Danielle Wood**](https://www.media.mit.edu/people/drwood/overview/) \
 Environmental justice, ecosystem monitoring, space policy, remote sensing.
