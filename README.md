@@ -67,7 +67,7 @@ machine learning methods for discovering dynamics, optimal control, rare events 
 Cryosphere, glaciers, remote sensing, inSAR, mechanics of flowing ice. 
 
 - [**Chris Hill**](https://mitibmwatsonailab.mit.edu/people/chris-hill/) \
-Ocean modeling, climate modeling, green high-performance computing, physics-informed neural networks, multi-scale modeling of fluids. Students in CCML include Anamitra Saha, Joaquin Salas; links include [1](https://doi.org/10.1029/2020GL091363).
+Ocean modeling, climate modeling, green high-performance computing, physics-informed neural networks, multi-scale modeling of fluids. Links include [1](https://doi.org/10.1029/2020GL091363).
 
 - [**Noelle Selin**](https://eapsweb.mit.edu/people/selin) \
 Air pollution, atmospheric chemistry, aerosols.
@@ -79,7 +79,7 @@ Atmospheric dynamics, precipitation, physics-informed neural networks. Students 
 Ocean modeling, Ocean dynamics, Atmospheric dynamics. Links in CCML include [1](http://ferrari.mit.edu/research/ocean-modelling/)
 
 - [**Sai Ravela**](https://eapsweb.mit.edu/people/ravela) \
-Data-Driven dynamics, optimization and learning; natural hazards and climate risk; computational sustainability; and observing systems. Links in CCML include [1](https://doi.org/10.1109/TKDE.2018.2861006)
+Data-Driven dynamics, optimization and learning; natural hazards and climate risk; computational sustainability; and observing systems. Associates and students in CCML include Anamitra Saha and Joaquin Salas; links include [1](https://doi.org/10.1109/TKDE.2018.2861006)
 
 - [**Stephanie Dutkiewicz**](https://eapsweb.mit.edu/people/stephdut) \
 Ocean sciences, marine ecosystems, phytoplankton, biogeochemistry, biogeography, unsupervised learning. Links in CCML include [1](https://doi.org/10.1126/sciadv.aay4740)
