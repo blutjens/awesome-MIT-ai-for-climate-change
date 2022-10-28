@@ -79,7 +79,7 @@ Atmospheric dynamics, precipitation, physics-informed neural networks. Students 
 Ocean modeling, Ocean dynamics, Atmospheric dynamics. Links in CCML include [1](http://ferrari.mit.edu/research/ocean-modelling/)
 
 - [**Sai Ravela**](https://eapsweb.mit.edu/people/ravela) \
-Data-Driven dynamics, optimization and learning; natural hazards and climate risk; computational sustainability; and observing systems. Associates and students in CCML include Anamitra Saha and Joaquin Salas; links include [1](https://doi.org/10.1109/TKDE.2018.2861006)
+Data-Driven Dynamics; Optimization and Learning; Natural Hazards and Climate Risk; Computational Sustainability; Autonomous Observing Systems. Associates and students in CCML include Anamitra Saha and Joaquin Salas; links include [1](https://doi.org/10.1109/TKDE.2018.2861006)
 
 - [**Stephanie Dutkiewicz**](https://eapsweb.mit.edu/people/stephdut) \
 Ocean sciences, marine ecosystems, phytoplankton, biogeochemistry, biogeography, unsupervised learning. Links in CCML include [1](https://doi.org/10.1126/sciadv.aay4740)
