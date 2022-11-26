@@ -76,7 +76,7 @@ Ocean modeling, climate modeling, green high-performance computing, physics-info
 Air pollution, atmospheric chemistry, aerosols.
 
 - [**Paul O'Gorman**](https://pog.mit.edu/) \
-Atmospheric dynamics, precipitation, physics-informed neural networks. Associates and links in CCML include Janni Yuval, [3Q](https://news.mit.edu/2019/mit-3q-paul-o-gorman-machine-learning-for-climate-modeling-0213).
+Atmospheric dynamics, precipitation, physics-informed neural networks. Associates and links in CCML include Janni Yuval, Ziwei Li, [3Q](https://news.mit.edu/2019/mit-3q-paul-o-gorman-machine-learning-for-climate-modeling-0213).
 
 - [**Raffaele Ferrari**](http://ferrari.mit.edu/) \
 Ocean modeling, Ocean dynamics, Atmospheric dynamics. Links in CCML include [1](http://ferrari.mit.edu/research/ocean-modelling/)
