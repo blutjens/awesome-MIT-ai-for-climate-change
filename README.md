@@ -26,6 +26,9 @@ MIT Campaign for a Better World logo from [MIT Better World](https://betterworld
 - [**Dava Newman**](https://davanewman.com/) \
 Fast climate models, physics-informed neural networks, climate visualizations, virtual reality. Associates in CCML include Björn Lütjens, Phillip Cherner. 
 
+- [**Sebastian Eastham**](https://lae.mit.edu/team/sebastian-eastham/) \
+Atmospheric modeling of aircraft emissions, multiscale atmospheric modeling, impact of long-lived emissions, earth observation. 
+
 - [**Steven Barret**](http://barrett.mit.edu/) \
 Zero-emission aviation, contrails. Associates in CCML include Vincent Meijer. 
 
