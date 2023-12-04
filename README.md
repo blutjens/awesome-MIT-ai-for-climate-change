@@ -70,19 +70,19 @@ Control of infrastructure systems, game theory, optimization in networks, sustai
 machine learning methods for discovering dynamics, optimal control, rare events in dynamical systems, Ocean modeling. Links in CCML include [1](https://doi.org/10.1029/2020MS002108).
 
 - [**Brent Minchew**](https://glaciers.mit.edu/) \
-Cryosphere, glaciers, remote sensing, inSAR, mechanics of flowing ice. 
+Cryosphere, glaciers, remote sensing, inSAR, mechanics of flowing ice. Link in CCML include [1](https://doi.org/10.1017/jog.2023.8).
 
 - [**Chris Hill**](https://mitibmwatsonailab.mit.edu/people/chris-hill/) \
 Ocean modeling, climate modeling, green high-performance computing, physics-informed neural networks, multi-scale modeling of fluids. Links include [1](https://doi.org/10.1029/2020GL091363).
 
 - [**Noelle Selin**](https://eapsweb.mit.edu/people/selin) \
-Air pollution, atmospheric chemistry, aerosols.
+Air pollution, atmospheric chemistry, aerosols. Associates and links include Björn Lütjens, Paolo Giani, Chris Womack and [1](https://climategrandchallenges.mit.edu/flagship-projects/bringing-computation-to-the-climate-challenge/#:~:text=The%20development%20of%20a%20digital,for%20communities%20and%20other%20stakeholders.).
 
 - [**Paul O'Gorman**](https://pog.mit.edu/) \
-Atmospheric dynamics, precipitation, physics-informed neural networks. Associates and links in CCML include Janni Yuval, Ziwei Li, [3Q](https://news.mit.edu/2019/mit-3q-paul-o-gorman-machine-learning-for-climate-modeling-0213).
+Atmospheric dynamics, precipitation, physics-informed neural networks. Associates and links in CCML include Griffin Mooers, Janni Yuval, Ziwei Li, [3Q](https://news.mit.edu/2019/mit-3q-paul-o-gorman-machine-learning-for-climate-modeling-0213).
 
 - [**Raffaele Ferrari**](http://ferrari.mit.edu/) \
-Ocean modeling, Ocean dynamics, Atmospheric dynamics. Links in CCML include [1](http://ferrari.mit.edu/research/ocean-modelling/)
+Ocean modeling, Ocean dynamics, Atmospheric dynamics. Associates and links in CCML include Andre Souza, Björn Lütjens [1](http://ferrari.mit.edu/research/ocean-modelling/), [2](https://climategrandchallenges.mit.edu/flagship-projects/bringing-computation-to-the-climate-challenge/#:~:text=The%20development%20of%20a%20digital,for%20communities%20and%20other%20stakeholders.).
 
 - [**Sai Ravela**](https://eapsweb.mit.edu/people/ravela) \
 Data-Driven Dynamics; Optimization and Learning; Natural Hazards and Climate Risk; Computational Sustainability; Autonomous Observing Systems. Students and associates in CCML include Anamitra Saha and Joaquin Salas; links include [1](https://doi.org/10.1109/TKDE.2018.2861006)
@@ -106,7 +106,7 @@ Environmental and economic sustainability of materials, recycled and renewable m
 Ocean modeling and data assimilation to quantify regional ocean dynamics on multiple scales. Multiscale modeling, uncertainty quantification, data assimilation.
 
 - [**Sherrie Wang**](https://sherriewang.github.io/) \
-Remote sensing and machine learning for climate science and agriculture. Links in CCML include [1](https://doi.org/10.1016/j.rse.2018.12.026)
+Remote sensing and machine learning for climate science and agriculture. Associates and links in CCML include [1](https://doi.org/10.1016/j.rse.2018.12.026)
 
 ## MIT Media Lab
 - [**Danielle Wood**](https://www.media.mit.edu/people/drwood/overview/) \
