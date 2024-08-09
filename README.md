@@ -102,6 +102,9 @@ Forecasting, optimization, and control in high-renewable power grids, hard const
 Environmental and economic sustainability of materials, recycled and renewable materials, recycling-friendly material design, intelligent waste disposition, dematerialization and waste mining. Links in CCML include [1](https://news.mit.edu/2019/materials-day-talks-examine-promises-challenges-ai-machine-learning-1105)
 
 ## Mechanical Engineering
+- [**Anuradha Annaswamy**](https://meche.mit.edu/people/faculty/aanna%40mit.edu) \
+Adaptive control and data-driven methods, such as federated learning, for smart distribution grids or aircraft. Links in CCML include [1](https://doi.org/10.1016/j.arcontrol.2021.10.014).
+
 - [**Pierre Lermusiaux**](http://web.mit.edu/pierrel/www/) \
 Ocean modeling and data assimilation to quantify regional ocean dynamics on multiple scales. Multiscale modeling, uncertainty quantification, data assimilation.
 
