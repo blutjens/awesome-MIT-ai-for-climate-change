@@ -17,7 +17,7 @@ MIT Campaign for a Better World logo from [MIT Better World](https://betterworld
 - [**Earth and planetary sciences (EAPS)**](#earth-and-planetary-sciences-eaps)
 - [**Electrical Engineering and Computer Science (EECS)**](#electrical-engineering-and-computer-science-eecs)
 - [**Materials Sciences and Engineering**](#materials-sciences-and-engineering)
-- [**Mechanical Engineering**](#mechanical-engineering)
+- [**Mechanical Engineering (MechE)**](#mechanical-engineering-meche)
 - [**MIT Media Lab**](#mit-media-lab)
 - [**MIT Sloan School of Management**](#mit-sloan-school-of-management)
 - [**Woods Hole Oceanographic Institution (WHOI)**](#woods-hole-oceanographic-institution-whoi)
@@ -99,17 +99,23 @@ Forecasting, optimization, and control in high-renewable power grids, hard const
 
 ## Materials Sciences and Engineering
 - [**Elsa Olivetti**](https://dmse.mit.edu/people/elsa-a-olivetti) \
-Environmental and economic sustainability of materials, recycled and renewable materials, recycling-friendly material design, intelligent waste disposition, dematerialization and waste mining. Links in CCML include [1](https://news.mit.edu/2019/materials-day-talks-examine-promises-challenges-ai-machine-learning-1105)
+Environmental and economic sustainability of materials, recycled and renewable materials, recycling-friendly material design, intelligent waste disposition, dematerialization and waste mining. Links in CCML include [1](https://news.mit.edu/2019/materials-day-talks-examine-promises-challenges-ai-machine-learning-1105).
 
-## Mechanical Engineering
+- [**Jeffrey Grossman**](https://dmse.mit.edu/faculty/jeffrey-grossman/) \
+Nano materials, energy applications, applied machine learning. Strategic advisor to MIT Climate and Sustainability Consortium. Links in CCML include [1](https://doi.org/10.1038/s41467-019-10663-6).
+
+## Mechanical Engineering (MechE)
 - [**Anuradha Annaswamy**](https://meche.mit.edu/people/faculty/aanna%40mit.edu) \
-Adaptive control and data-driven methods, such as federated learning, for smart distribution grids or aircraft. Links in CCML include [1](https://doi.org/10.1016/j.arcontrol.2021.10.014).
+Adaptive control, data-driven methods, federated learning for optimizing smart energy distribution grids. Links in CCML include [1](https://doi.org/10.1016/j.arcontrol.2021.10.014).
 
 - [**Pierre Lermusiaux**](http://web.mit.edu/pierrel/www/) \
 Ocean modeling and data assimilation to quantify regional ocean dynamics on multiple scales. Multiscale modeling, uncertainty quantification, data assimilation.
 
 - [**Sherrie Wang**](https://sherriewang.github.io/) \
-Remote sensing and machine learning for climate science and agriculture. Associates and links in CCML include [1](https://doi.org/10.1016/j.rse.2018.12.026)
+Remote sensing and machine learning for climate science and agriculture. Associates and links in CCML include [1](https://doi.org/10.1016/j.rse.2018.12.026).
+
+- [**Themistoklis Sapsis**](https://meche.mit.edu/people/faculty/sapsis@MIT.EDU) \
+Physics-informed machine learning, reduced order modeling for sampling of extreme climate events. Associates and links in CCML include Mengze Wang and [1](https://doi.org/10.1371/journal.pone.0197704).
 
 ## MIT Media Lab
 - [**Danielle Wood**](https://www.media.mit.edu/people/drwood/overview/) \
@@ -146,4 +152,4 @@ Deep sea exploration, robots, communication-starved environments, unsupervised l
 A list of professors interested in climate change. 
 
 ## Contributions
-This list has only been possible to assemble through the extensive input by Zivvy Epstein, Helena Caswell, Salva Rühling, Will Atkinson, Sidhant Pai, Sai Ravela, and more. 
+This list has only been possible to assemble through the extensive input by Zivvy Epstein, Helena Caswell, Salva Rühling, Will Atkinson, Sidhant Pai, Sai Ravela, Margaret Capetz, and more. 
