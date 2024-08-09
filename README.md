@@ -1,7 +1,7 @@
 # awesome-MIT-AI-for-Climate-Change [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-**Awesome-MIT-AI-for-Climate-Change** is a curated list of professors and other researchers at Massachusetts Institute of Technology (MIT) who are tackling climate change with machine learning (CCML)
+**Awesome-MIT-AI-for-Climate-Change** is a curated list of professors and other faculty at Massachusetts Institute of Technology (MIT) who are tackling climate change with machine learning (CCML).
 
-Finding MIT professors in machine learning and climate change is difficult, because they are spread across various departments and research a wide breadth of optics. Whether you're applying for graduate school, look for collaborators, or inspiring projects - this list is intended to get you started by finding the right people.
+Finding people at the intersection of machine learning and climate change can be difficult, because they are spread across various departments and research a wide breadth of topics. Whether you're applying for graduate school, look for collaborators, or inspiring projects - this list is intended to get you started by finding the right people.
 
 This is a safe, open, and inclusive community. The list is most surely incomplete, so please add your favorite researchers through commenting in an issue or creating a pull request.
 
