@@ -14,7 +14,7 @@ MIT Campaign for a Better World logo from [MIT Better World](https://betterworld
 - [**Architecture**](#architecture)
 - [**Civil and Environmental Engineering (CEE)**](#civil-and-environmental-engineering-cee)
 - [**Computer Science and Artificial Intelligence Laboratory (CSAIL)**](#computer-science-and-artificial-intelligence-laboratory-csail)
-- [**Earth and planetary sciences (EAPS)**](#earth-and-planetary-sciences-eaps)
+- [**Earth, Atmospheric, and Planetary sciences (EAPS)**](#earth-atmospheric-and-planetary-sciences-eaps)
 - [**Electrical Engineering and Computer Science (EECS)**](#electrical-engineering-and-computer-science-eecs)
 - [**Materials Sciences and Engineering**](#materials-sciences-and-engineering)
 - [**Mechanical Engineering (MechE)**](#mechanical-engineering-meche)
@@ -62,7 +62,7 @@ Wind farm modeling, fluid mechanics, weather and climate modeling, uncertainty q
 - [**Saurabh Amin**](https://cee.mit.edu/people_individual/saurabh-amin/) \
 Control of infrastructure systems, game theory, optimization in networks, sustainability, natural resource supply chains.
 
-## Earth and Planetary Sciences (EAPS)
+## Earth, Atmospheric, and Planetary Sciences (EAPS)
 - [**Andre Souza**](https://eapsweb.mit.edu/people/sandre) \
 machine learning methods for discovering dynamics, optimal control, rare events in dynamical systems, Ocean modeling. Links in CCML include [1](https://doi.org/10.1029/2020MS002108).
 
