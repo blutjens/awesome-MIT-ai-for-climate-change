@@ -53,9 +53,6 @@ Computer Vision for Ecology, wildlife camera footage, forest detection, fine-gra
 - [**César Terrer**](https://cee.mit.edu/people_individual/cesar-terrer/) \
 Earth system science, forests, plant-soil interactions, field and satellite observations, remote sensing, land surface modeling. 
 
-- [**Colette Heald**](https://eapsweb.mit.edu/people/heald) \
-Air quality, climate, environmental health, atmospheric composition and chemistry, modeling. Associates and links in CCML include Sidhant Pai and [1](https://doi.org/10.1029/2018GL081049).
-
 - [**Michael Howland**](https://cee.mit.edu/people_individual/michael-f-howland/) \
 Wind farm modeling, fluid mechanics, weather and climate modeling, uncertainty quantification, optimization and control, physics-informed machine learning, renewable energies. Links in CCML include [1](https://doi.org/10.3390/en12142716).
 
