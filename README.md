@@ -3,7 +3,7 @@
 
 Finding people at the intersection of machine learning and climate change can be difficult, because they are spread across various departments and research a wide breadth of topics. Whether you're applying for graduate school, look for collaborators, or inspiring projects - this list is intended to get you started by finding the right people.
 
-This is a safe, open, and inclusive community. The list is most surely incomplete, so please add your favorite researchers through commenting in an issue or creating a pull request.
+The list is most surely incomplete, so we would greatly welcome you adding anybody. You can do so by opening an issue or by logging in and then clicking on the <img src="https://github.com/user-attachments/assets/2728cbe9-0978-4915-8b43-fd72aacc7ae4" height="16"> "Edit File" icon.
 
 <img src="mit-earth-logo.png" alt="MIT logo with an Earth in brackets" width="20%">
 
