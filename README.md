@@ -50,6 +50,9 @@ Distributed or collaborative robotics, soft robotics, mobile computing, pruned n
 Computer Vision for Ecology, wildlife camera footage, forest detection, fine-grained visual classification. 
 
 ## Civil and Environmental Engineering (CEE)
+- [**Cathy Wu**](https://idss.mit.edu/staff/cathy-wu/) \
+Traffic optimization, sustainable transportation systems, reinforcement learning, optimal control, multi-agent. Links in CCML include [1](https://proceedings.neurips.cc/paper/2021/hash/dc9fa5f217a1e57b8a6adeb065560b38-Abstract.html). 
+
 - [**César Terrer**](https://cee.mit.edu/people_individual/cesar-terrer/) \
 Earth system science, forests, plant-soil interactions, field and satellite observations, remote sensing, land surface modeling. 
 
