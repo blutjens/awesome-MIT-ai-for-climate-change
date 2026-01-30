@@ -12,6 +12,7 @@ MIT Campaign for a Better World logo from [MIT Better World](https://betterworld
 ## Department 
 - [**Aeronautics and Astronautics**](#aeronautics-and-astronautics)
 - [**Architecture**](#architecture)
+- [**Biology**](#biology)
 - [**Civil and Environmental Engineering (CEE)**](#civil-and-environmental-engineering-cee)
 - [**Computer Science and Artificial Intelligence Laboratory (CSAIL)**](#computer-science-and-artificial-intelligence-laboratory-csail)
 - [**Earth, Atmospheric, and Planetary sciences (EAPS)**](#earth-atmospheric-and-planetary-sciences-eaps)
@@ -38,6 +39,10 @@ Deforestation, environmental justice.
 
 - [**Marcela Angel**](https://environmentalsolutions.mit.edu/people/marcela-angel/) \
 Technology development and data analysis for community-based planning, natural climate solutions, deforestation, ML-based aerial monitoring, environmental justice. 
+
+## Biology
+- [**Yunha Hwang**](https://www.yunhahwang.com/) \
+Machine learning for sustainable biomanufacturing, microbial applications in environmental health, genomic language model. 
 
 ## Computer Science and Artificial Intelligence Laboratory (CSAIL)
 - [**Chris Rackauckas**](https://chrisrackauckas.com/) \
