@@ -113,6 +113,9 @@ Adaptive control, data-driven methods, federated learning for optimizing smart e
 - [**Pierre Lermusiaux**](http://web.mit.edu/pierrel/www/) \
 Ocean modeling and data assimilation to quantify regional ocean dynamics on multiple scales. Multiscale modeling, uncertainty quantification, data assimilation.
 
+- [**Sili Deng**](https://deng.mit.edu/) \
+Scientific machine learning, stiff neural ODEs, PDE foundation models, energy conversion, nanomaterial syntheis, multiphase flows, combustion, carbon-neutral materials, solar cells, cfd. Links in CCML include [1](https://doi.org/10.1016/j.cma.2024.117397).
+
 - [**Sherrie Wang**](https://sherriewang.github.io/) \
 Remote sensing and machine learning for climate science and agriculture. Associates and links in CCML include [1](https://doi.org/10.1016/j.rse.2018.12.026).
 
