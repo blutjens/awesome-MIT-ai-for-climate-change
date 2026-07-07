@@ -68,11 +68,8 @@ Wind farm modeling, fluid mechanics, weather and climate modeling, uncertainty q
 Control of infrastructure systems, game theory, optimization in networks, sustainability, natural resource supply chains.
 
 ## Earth, Atmospheric, and Planetary Sciences (EAPS)
-- [**Andre Souza**](https://eapsweb.mit.edu/people/sandre) \
-machine learning methods for discovering dynamics, optimal control, rare events in dynamical systems, Ocean modeling. Links in CCML include [1](https://doi.org/10.1029/2020MS002108).
-
-- [**Brent Minchew**](https://glaciers.mit.edu/) \
-Cryosphere, glaciers, remote sensing, inSAR, mechanics of flowing ice. Link in CCML include [1](https://doi.org/10.1017/jog.2023.8).
+- [**Abigail Bodner**](https://multiscalemariners.com/) \
+Ocean turbulence, machine learning-based parametrizations, high-resolution ocean AI emulators. Links in CCML include [1](https://doi.org/10.1029/2025MS004991).
 
 - [**Chris Hill**](https://mitibmwatsonailab.mit.edu/people/chris-hill/) \
 Ocean modeling, climate modeling, green high-performance computing, physics-informed neural networks, multi-scale modeling of fluids. Links include [1](https://doi.org/10.1029/2020GL091363).
