@@ -54,6 +54,9 @@ Distributed or collaborative robotics, soft robotics, mobile computing, pruned n
 - [**Sara Beery**](https://beerys.github.io/) \
 Computer Vision for Ecology, wildlife camera footage, forest detection, fine-grained visual classification. 
 
+- [**Tamara Broderick**](https://tamarabroderick.com/index.html) \
+Bayesian modeling, Bayesian inference, statistics, variational bayes, uncertainty quantification, wildfire and air pollution. Links in CCML include [1](https://doi.org/10.1175/BAMS-D-24-0291.1)
+
 ## Civil and Environmental Engineering (CEE)
 - [**Cathy Wu**](https://idss.mit.edu/staff/cathy-wu/) \
 Traffic optimization, sustainable transportation systems, reinforcement learning, optimal control, multi-agent. Links in CCML include [1](https://proceedings.neurips.cc/paper/2021/hash/dc9fa5f217a1e57b8a6adeb065560b38-Abstract.html). 
