@@ -25,10 +25,10 @@ MIT Campaign for a Better World logo from [MIT Better World](https://betterworld
 
 ## Aeronautics and Astronautics 
 - [**Dava Newman**](https://davanewman.com/) \
-Fast climate models, physics-informed neural networks, climate visualizations, virtual reality. Associates in CCML include Björn Lütjens, Phillip Cherner. 
+Fast climate models, physics-informed neural networks, climate visualizations, virtual reality. Ex-associates in CCML include Björn Lütjens, Phillip Cherner. 
 
 - [**Daniel Varon**](https://aeroastro.mit.edu/people/daniel-varon/) \
-Remote sensing, methane emissions, scientific computing. Links in CCML include [1](https://doi.org/10.5194/egusphere-2024-2565).
+Remote sensing, methane emissions. Links in CCML include [1](https://doi.org/10.5194/egusphere-2024-2565).
 
 - [**Youssef Marzouk**](https://uqgroup.mit.edu/) \
 Uncertainty quantification, Bayesian modeling and computation, data assimilation, machine learning in complex physical systems, environmental applications. Associates in CCML include Maximilian Ramgraber, Aimee Maurais. 
@@ -38,21 +38,21 @@ Uncertainty quantification, Bayesian modeling and computation, data assimilation
 Deforestation, environmental justice.  
 
 - [**Marcela Angel**](https://environmentalsolutions.mit.edu/people/marcela-angel/) \
-Technology development and data analysis for community-based planning, natural climate solutions, deforestation, ML-based aerial monitoring, environmental justice. 
+Deforestation,community-based planning, natural climate solutions, aerial monitoring, drones,  environmental justice. 
 
 ## Biology
 - [**Yunha Hwang**](https://www.yunhahwang.com/) \
-Machine learning for sustainable biomanufacturing, microbial applications in environmental health, genomic language model. 
+Sustainable biomanufacturing, microbial applications in environmental health, genomic language model. 
 
 ## Computer Science and Artificial Intelligence Laboratory (CSAIL)
 - [**Chris Rackauckas**](https://chrisrackauckas.com/) \
-Scientific machine learning, physics-informed neural networks, climate modeling, differential equations.
+Scientific machine learning, physics-informed neural networks, julia, GPUs, climate modeling, differential equations.
 
 - [**Daniela Rus**](https://www.youtube.com/watch?v=A7_DIsxWqGI) \
-Distributed or collaborative robotics, soft robotics, mobile computing, pruned neural networks, robustness, climate change. 
+Distributed robotics, collaborative robotics, soft robotics, mobile computing, pruned neural networks, robustness, climate change. 
 
 - [**Sara Beery**](https://beerys.github.io/) \
-Computer Vision for Ecology, wildlife camera footage, forest detection, fine-grained visual classification. 
+Computer Vision for Ecology, wildlife camera footage, forest detection, fine-grained visual classification, out-of-distribution, domain adaptation, vision-language models. Almost exclusively works on CCML. Associaties in CCML include Justin Kay, Shir Bar, Julia Chae, Timm Hauke, Rupa Kurinchi-Vendhan, etc. Links in CCML include [1](https://doi.org/10.1038/s41467-022-27980-y).
 
 - [**Tamara Broderick**](https://tamarabroderick.com/index.html) \
 Bayesian modeling, Bayesian inference, statistics, variational bayes, uncertainty quantification, wildfire and air pollution. Links in CCML include [1](https://doi.org/10.1175/BAMS-D-24-0291.1)
@@ -62,35 +62,35 @@ Bayesian modeling, Bayesian inference, statistics, variational bayes, uncertaint
 Traffic optimization, sustainable transportation systems, reinforcement learning, optimal control, multi-agent. Links in CCML include [1](https://proceedings.neurips.cc/paper/2021/hash/dc9fa5f217a1e57b8a6adeb065560b38-Abstract.html). 
 
 - [**César Terrer**](https://cee.mit.edu/people_individual/cesar-terrer/) \
-Earth system science, forests, plant-soil interactions, field and satellite observations, remote sensing, land surface modeling. 
+Soil carbon, Earth system science, forests, plant-soil interactions, field and satellite observations, remote sensing, land surface modeling. 
 
 - [**Michael Howland**](https://cee.mit.edu/people_individual/michael-f-howland/) \
-Wind farm modeling, fluid mechanics, weather and climate modeling, uncertainty quantification, optimization and control, physics-informed machine learning, renewable energies. Links in CCML include [1](https://doi.org/10.3390/en12142716).
+Wind farm modeling, fluid mechanics, turbulence, wake modeling, power grid integration, uncertainty quantification, physics-informed machine learning, renewable energies. Links in CCML include [1](https://doi.org/10.3390/en12142716).
 
 - [**Saurabh Amin**](https://cee.mit.edu/people_individual/saurabh-amin/) \
 Control of infrastructure systems, game theory, optimization in networks, sustainability, natural resource supply chains.
 
 ## Earth, Atmospheric, and Planetary Sciences (EAPS)
 - [**Abigail Bodner**](https://multiscalemariners.com/) \
-Ocean turbulence, machine learning-based parametrizations, high-resolution ocean AI emulators. Links in CCML include [1](https://doi.org/10.1029/2025MS004991).
+Ocean turbulence, machine learning closures, parametrizations, high-resolution ocean AI emulators. Links in CCML include [1](https://doi.org/10.1029/2025MS004991).
 
 - [**Chris Hill**](https://mitibmwatsonailab.mit.edu/people/chris-hill/) \
-Ocean modeling, climate modeling, green high-performance computing, physics-informed neural networks, multi-scale modeling of fluids. Links include [1](https://doi.org/10.1029/2020GL091363).
+Ocean modeling, HPC infrastructure, green high-performance computing, physics-informed neural networks, multi-scale modeling of fluids. Links include [1](https://doi.org/10.1029/2020GL091363).
 
 - [**Noelle Selin**](https://eapsweb.mit.edu/people/selin) \
 Air pollution, atmospheric chemistry, aerosols. Associates and links include Björn Lütjens, Paolo Giani, Chris Womack and [1](https://climategrandchallenges.mit.edu/flagship-projects/bringing-computation-to-the-climate-challenge/#:~:text=The%20development%20of%20a%20digital,for%20communities%20and%20other%20stakeholders.).
 
 - [**Paul O'Gorman**](https://pog.mit.edu/) \
-Atmospheric dynamics, precipitation, physics-informed neural networks. Associates and links in CCML include Griffin Mooers, Janni Yuval, Ziwei Li, [3Q](https://news.mit.edu/2019/mit-3q-paul-o-gorman-machine-learning-for-climate-modeling-0213).
+Precipitation, large-scale atmospheric dynamics,  physics-informed neural networks. Associates and links in CCML include Griffin Mooers, Janni Yuval, Ziwei Li, [3Q](https://news.mit.edu/2019/mit-3q-paul-o-gorman-machine-learning-for-climate-modeling-0213).
 
 - [**Raffaele Ferrari**](http://ferrari.mit.edu/) \
 Ocean modeling, Ocean dynamics, Atmospheric dynamics. Associates and links in CCML include Andre Souza, Björn Lütjens [1](http://ferrari.mit.edu/research/ocean-modelling/), [2](https://climategrandchallenges.mit.edu/flagship-projects/bringing-computation-to-the-climate-challenge/#:~:text=The%20development%20of%20a%20digital,for%20communities%20and%20other%20stakeholders.).
 
 - [**Sai Ravela**](https://eapsweb.mit.edu/people/ravela) \
-Data-Driven Dynamics; Optimization and Learning; Natural Hazards and Climate Risk; Computational Sustainability; Autonomous Observing Systems. Students and associates in CCML include Anamitra Saha and Joaquin Salas; links include [1](https://doi.org/10.1109/TKDE.2018.2861006)
+Hurricanes, improve ML with dynamical system theory, optimization, extreme rainfall, natural hazards, climate risk, computational sustainability, autonomous observing systems. Students and associates in CCML include Anamitra Saha and Joaquin Salas; links include [1](https://doi.org/10.1109/TKDE.2018.2861006)
 
 - [**Stephanie Dutkiewicz**](https://eapsweb.mit.edu/people/stephdut) \
-Ocean sciences, marine ecosystems, phytoplankton, biogeochemistry, biogeography, unsupervised learning. Links in CCML include [1](https://doi.org/10.1126/sciadv.aay4740)
+Phytoplankton, ocean sciences, marine ecosystems, biogeochemistry, biogeography, unsupervised learning. Links in CCML include [1](https://doi.org/10.1126/sciadv.aay4740)
 
 - [**Taylor Perron**](https://taylorperron.org/) \
 Geomorphology, remote sensing, forests, influence of climate on landscapes, river networks. 
